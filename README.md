@@ -67,18 +67,8 @@ I'm a Full-Stack Developer 💻
 
       ---
 
-      ## 📊 GitHub Analytics Overview
-
-      <a href="https://github-readme-stats.vercel.app/api?username=Chathu715&show_icons=true&theme=dark&hide_border=true">
-        <img src="https://github-readme-stats.vercel.app/api?username=Chathu715&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-      </a>a>
-
-      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Chathu715&layout=compact&theme=dark&hide_border=true">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chathu715&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-      </a>a>
 
       ---
-
       ## 📞 Contact Me
 
       [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chathura-dinuwan-1b5652256)
