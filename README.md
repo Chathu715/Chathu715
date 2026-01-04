@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AE0FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Chathura+Dinuwan+👋;Full-Stack+Developer;AI+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
-</h1>h1>
+# Hi, I'm Chathura Dinuwan 👋
+
+I'm a Full-Stack Developer 💻
 
 ---
 
@@ -26,6 +26,7 @@
       ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
       ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
       ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+      ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
       ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 
       ### 🔧 **Backend Development**
@@ -68,9 +69,13 @@
 
       ## 📊 GitHub Analytics Overview
 
-      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chathu715&show_icons=true&theme=dark&hide_border=true)
+      <a href="https://github-readme-stats.vercel.app/api?username=Chathu715&show_icons=true&theme=dark&hide_border=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=Chathu715&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+      </a>a>
 
-      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chathu715&layout=compact&theme=dark&hide_border=true)
+      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Chathu715&layout=compact&theme=dark&hide_border=true">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chathu715&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+      </a>a>
 
       ---
 
