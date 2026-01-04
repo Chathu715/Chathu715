@@ -77,4 +77,4 @@ I'm a Full-Stack Developer 💻
 
       ---
 
-      ⭐️ From [@Chathu715](https://github.com/Chathu715)
+     [@Chathu715](https://github.com/Chathu715)
