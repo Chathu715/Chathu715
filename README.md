@@ -65,9 +65,7 @@ I'm a Full-Stack Developer 💻
       ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
       ![Bugzilla](https://img.shields.io/badge/Bugzilla-0066CC?style=flat-square)
 
-      ---
-
-
+  
       ---
       ## 📞 Contact Me
 
